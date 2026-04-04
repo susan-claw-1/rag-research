@@ -1,0 +1,19 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Data and embeddings (large assets can live elsewhere)
+data/
+embeddings/
+
+# Misc
+*.log
+README.md
+README
+README.rst
+README.txt
+README.md~
+EOF
