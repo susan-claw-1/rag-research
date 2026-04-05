@@ -9,8 +9,8 @@ A structured learning path for building a reliable pipeline that processes files
 ### Concepts
 - [ ] Understand the full RAG pipeline: Files → Parse → Chunk → Embed → Index → Retrieve → Rerank → LLM → Answer
 - [ ] Read about vector similarity search (cosine similarity, approximate nearest neighbours)
-- [ ] Understand the difference between keyword search (BM25) and semantic search (embeddings)
-- [ ] Learn why hybrid search (keyword + semantic) outperforms either alone
+- [x] Understand the difference between keyword search (BM25) and semantic search (embeddings)
+- [x] Learn why hybrid search (keyword + semantic) outperforms either alone
 
 ### Parsing & Ingestion
 - [ ] Explore document parsing libraries: `unstructured`, `docling`, `pymupdf4llm`, `markitdown`
@@ -113,4 +113,4 @@ A structured learning path for building a reliable pipeline that processes files
 
 ---
 
-*Last updated: 2026-04-04*
+*Last updated: 2026-04-05*

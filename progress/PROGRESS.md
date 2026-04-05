@@ -4,7 +4,7 @@
 
 | Phase | Status | Started | Notes |
 |-------|--------|---------|-------|
-| 1. Foundations | 🔜 Not started | — | Parsing, chunking, embeddings |
+| 1. Foundations | 🟡 In progress | 2026-04-05 | Concepts: search types done |
 | 2. Retrieval Layer | ⏳ Waiting | — | Vector stores, hybrid search, eval |
 | 3. LLM Layer | ⏳ Waiting | — | Prompting, citation, agentic RAG |
 | 4. Knowledge Graphs | ⏳ Waiting | — | Entities, GraphRAG, multi-hop |
@@ -17,8 +17,8 @@
 ### Concepts
 - [ ] Understand full RAG pipeline end-to-end
 - [ ] Vector similarity search (cosine, ANN)
-- [ ] Keyword vs semantic search
-- [ ] Why hybrid search wins
+- [x] Keyword vs semantic search
+- [x] Why hybrid search wins
 
 ### Parsing & Ingestion
 - [ ] Explore parsing libraries (unstructured, docling, pymupdf4llm, markitdown)
@@ -80,6 +80,7 @@
 | Date | What happened |
 |------|---------------|
 | 2026-04-04 | Project scaffolded. Learning plan created. Repo initialised. |
+| 2026-04-05 | Completed: keyword search vs semantic search vs hybrid search (concepts + architecture patterns). |
 
 ---
 
